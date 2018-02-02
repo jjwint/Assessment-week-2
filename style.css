@@ -1,0 +1,95 @@
+body {
+	background-color: black;
+}
+
+#container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: white;
+	margin: auto;
+	width: 380px;
+	margin-top: 50px;
+}
+
+#submitButton {
+	background-color: black;
+	color: white;
+	margin: 0 auto;
+	width: 60%;
+	margin-top: 5px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+h1 {
+	padding-top: 30px;
+}
+
+input {
+	border-right: none;
+	border-left: none;
+	border-top: none;
+	margin-bottom: 15px;
+	width: 60%;
+}
+
+input:hover {
+	border: 2px solid black;
+}
+
+#underLine {
+	text-decoration: underline;
+}
+
+a {
+	color: #ccc;
+	margin-bottom: 55px;
+	margin-top: 30px;
+}
+
+a:hover {
+	color: black;
+}
+
+.hidden {
+	display: none;
+}
+
+#welcome {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: white;
+	margin: auto;
+	width: 525px;
+	margin-top: 80px;
+}
+
+#logOut {
+	text-decoration: underline;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+p {
+	color: #ccc;
+}
+
+.welcomeBack {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: -30px;
+	border-top: 1px solid #ccc;
+	margin-left: 600px;
+	margin-right: 600px;
+}
+
+
+
+
+
+
+
+
+
